@@ -1,0 +1,8 @@
+# c = input()
+# print(chr(ord(c) + 1))
+c = input()
+
+if c == 'z':
+    print('a')
+else:
+    print(chr(ord(c) + 1))
